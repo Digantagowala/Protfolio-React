@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "magma",
   "private": true,
@@ -33,3 +34,16 @@
   },
   "homepage": "https://digantagowala.github.io/Protfolio-React/"
 }
+=======
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint .",
+  "preview": "vite preview",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+
+
+
+>>>>>>> d13e3357730f096962e1c6e3c2ba0ab86dd55fc4
