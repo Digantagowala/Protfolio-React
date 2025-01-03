@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://digantagowala.github.io/Protfolio-React",  // Add this line
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -31,3 +32,4 @@
     "vite": "^5.4.1"
   }
 }
+
